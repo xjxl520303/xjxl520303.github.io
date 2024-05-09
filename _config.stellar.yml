@@ -3,8 +3,13 @@ comments:
   comment_title: 快来参与讨论吧~
   utterances:
     utterances:
-    repo: xxx/xxx
+    repo: xjxl520303/xjxl520303.github.io
     issue-term: pathname
     issue-number:
     theme: preferred-color-scheme
     label:
+style:
+  prefers_theme: auto # auto / light / dark
+  smooth_scroll: false # true / false 开启时如果目录过长可能无法准确定位
+  font-size:
+    body: 14px
