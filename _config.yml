@@ -6,6 +6,8 @@ keywords:
   - 生活
   - 知识
   - Obsidian
+  - 知识管理
+  - 第二大脑
   - 马拉松
   - 跑步
   - 亲子
@@ -70,7 +72,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: stellar
 deploy:
   type: git
   repository: git@github.com:xjxl520303/xjxl520303.github.io.git
