@@ -1,0 +1,10 @@
+comments:
+  service: utterances
+  comment_title: 快来参与讨论吧~
+  utterances:
+    utterances:
+    repo: xxx/xxx
+    issue-term: pathname
+    issue-number:
+    theme: preferred-color-scheme
+    label:
